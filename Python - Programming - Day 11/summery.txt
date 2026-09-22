@@ -1,0 +1,21 @@
+SDLC_Models_Cheat_Sheet_for_Exams
+
+* Waterfall: Look for words like "fixed requirements," "stable," or "no changes"—it is a one-way street where you cannot turn back.
+
+* V-Model: Look for "safety-critical," "strict testing," or "medical/aviation." It is all about double-checking every single step as you go.
+
+* Incremental: Look for "part-by-part" or "module-by-module." You build and deliver one functional piece of the house at a time.
+
+* Iterative: Look for "evolving," "R&D," or "versions." You start with a rough draft and rewrite/polish it over multiple cycles.
+
+* Spiral: Look for "high risk," "large scale," or "expensive." It relies heavily on continuous risk analysis before moving forward.
+
+* Prototype: Look for "mock-up," "visual design," or "UI/UX." You build a quick, non-working dummy version just for the client to look at.
+
+* Agile: Look for "startups," "weekly updates," or "customer feedback." It is built for speed and changing your mind constantly.
+
+* Big Bang: Look for words like "no planning," "vague ideas," or "academic/hackathon projects"—it is a chaotic free-for-all where you just start coding immediately without any rules.
+
+
+
+
